@@ -7,8 +7,6 @@ sections:
 - type: document
   path: test
   label: TEst
-  match: "**/*"
-  read_only: false
 - type: heading
   label: Test
 upload_dir: uploads
