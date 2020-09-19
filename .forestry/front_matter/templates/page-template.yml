@@ -1,4 +1,8 @@
 ---
 label: Page Template
 hide_body: false
-fields: []
+fields:
+- name: toggle_this
+  type: boolean
+  label: Toggle this
+  description: TEst a toggle button
